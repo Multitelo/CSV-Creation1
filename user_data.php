@@ -16,8 +16,5 @@
 
     fclose($f);
     
-    echo('<hr>');
-	echo('<pre>');
 	print_r($data);
-	echo('</pre>');
 ?>
